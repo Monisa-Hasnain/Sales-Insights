@@ -1,6 +1,4 @@
-# Sales-Insights
-SALES INSIGHTS DASHBOARD- POWER BI ANALYTICS PROJECT Excel Dataset Analysis &amp; Visualization
-**Sales Insights Dashboard - Power BI Analytics Project**
+# SALES INSIGHTS Dashboard - POWER BI Analytics Project
 *Excel Dataset Analysis & Visualization*
 
 • **Data Integration & Processing**
